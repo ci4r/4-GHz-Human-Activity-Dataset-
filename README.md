@@ -7,4 +7,5 @@ This dataset was collected with a 4 GHz continuous-wave (CW) radar for human act
 * M.S. Seyfioglu and S.Z. Gurbuz, “Deep neural network initialization methods for micro-Doppler classification with low training sample support,” IEEE Geoscience and Remote Sensing Letters, vol. 14, iss. 12, December 2017.
 
 If you would like to use this data for your research, please inform me via email at szgurbuz@ua.edu and cite the above papers.
+[[Dataset download]](https://drive.google.com/file/d/1skXKNrQrTi1ddZVNUaUxAg3b1tlrSYoL/view?usp=sharing)
 
